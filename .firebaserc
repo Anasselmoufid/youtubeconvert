@@ -1,0 +1,14 @@
+{
+    "projects": {
+        "default": "savevideo-85fc5"
+    },
+    "targets": {
+        "savevideo-85fc5": {
+            "hosting": {
+                "savevideo-85fc5": [
+                    "savevideo-85fc5"
+                ]
+            }
+        }
+    }
+}

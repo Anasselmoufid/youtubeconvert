@@ -1,0 +1,7 @@
+kind: "AppStack"
+schemaVersion: "v1"
+runConfig:
+  # Choose a memory limit (512MiB, 1GiB, 2GiB, 4GiB, 8GiB)
+  memory: "512MiB"
+  # Node.js version
+  runtime: "nodejs20"
